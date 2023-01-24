@@ -31,17 +31,17 @@ export const links = [
 export const social = [
   {
     id: 1,
-    url: 'https://www.twitter.com',
+    url: 'https://twitter.com/SemirPljakic',
     icon: <FaFacebook />,
   },
   {
     id: 2,
-    url: 'https://www.facebook.com',
+    url: 'https://sr-rs.facebook.com/semir.pljakic',
     icon: <FaTwitter />,
   },
   {
     id: 3,
-    url: 'https://www.linkedin.com',
+    url: 'https://rs.linkedin.com/in/semir-pljakic-121887233?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F',
     icon: <FaLinkedin />,
   },
   {
