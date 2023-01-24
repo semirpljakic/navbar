@@ -29,24 +29,27 @@ export const links = [
 ];
 
 export const social = [
-  {
-    id: 2,
-    url: 'https://sr-rs.facebook.com/semir.pljakic',
-    icon: <FaFacebook />,
+   {
+    id: 1,
+    url: 'https://github.com/semirpljakic',
+    icon: <FaGithub />,
   },
   {
-    id: 1,
+    id: 2,
+    url: 'https://rs.linkedin.com/in/semir-pljakic-121887233?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F',
+    icon: <FaLinkedin />,
+  },
+  
+  {
+    id: 3,
     url: 'https://twitter.com/SemirPljakic',
     icon: <FaTwitter />,
   },
   {
-    id: 3,
-    url: 'https://rs.linkedin.com/in/semir-pljakic-121887233?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F',
-    icon: <FaLinkedin />,
-  },
- {
     id: 4,
-    url: 'https://github.com/semirpljakic',
-    icon: <FaGithub />,
+    url: 'https://sr-rs.facebook.com/semir.pljakic',
+    icon: <FaFacebook />,
   },
+  
+
 ];
