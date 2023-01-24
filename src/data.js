@@ -30,13 +30,13 @@ export const links = [
 
 export const social = [
   {
-    id: 1,
-    url: 'https://twitter.com/SemirPljakic',
+    id: 2,
+    url: 'https://sr-rs.facebook.com/semir.pljakic',
     icon: <FaFacebook />,
   },
   {
-    id: 2,
-    url: 'https://sr-rs.facebook.com/semir.pljakic',
+    id: 1,
+    url: 'https://twitter.com/SemirPljakic',
     icon: <FaTwitter />,
   },
   {
