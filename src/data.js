@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaFacebook, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaFacebook, FaLinkedin, FaTwitter, FaSketch } from 'react-icons/fa';
 export const links = [
   {
     id: 1,
@@ -50,6 +50,10 @@ export const social = [
     url: 'https://sr-rs.facebook.com/semir.pljakic',
     icon: <FaFacebook />,
   },
-  
+   {
+    id: 5,
+    url: 'https://www.buymeacoffee.com/pljakicsemir',
+    icon: <FaSketch />,
+  },
 
 ];
